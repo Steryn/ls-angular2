@@ -10,8 +10,8 @@ import { Component } from '@angular/core';
     </nav>
     <router-outlet></router-outlet>
   `,
-  styleUrls: ['./app.component.css'],
+  styleUrls: ['./style.css'],
 })
 export class AppComponent {
-  title = 'Tour of Heroes';
+  title = 'THIS IS MY ANGULAR';
 }
